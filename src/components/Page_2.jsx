@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export default function Page_2() {
   return (
     <div>
@@ -9,6 +10,7 @@ export default function Page_2() {
           Years
           Experience
           Working
+          안녕
         </li>
         <li></li>
         <li></li>
