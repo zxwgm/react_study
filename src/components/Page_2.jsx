@@ -11,6 +11,7 @@ export default function Page_2() {
           Experience
           Working
           안녕
+          dqwdqwdwwdqg
         </li>
         <li></li>
         <li></li>
